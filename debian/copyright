@@ -3,9 +3,11 @@ Upstream-Name: kaccounts-providers
 Source: git://anongit.kde.org/kaccounts-providers.git
 
 Files: *
+Copyright: Martin Klapetek <mklapetek@kde.org>
 License: GPL-2+
 
 Files: cmake/*
+Copyright: Martin Klapetek <mklapetek@kde.org>
 License: BSD-3-clause
 
 Files: debian/*
