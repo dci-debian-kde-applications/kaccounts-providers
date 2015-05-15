@@ -1,12 +1,10 @@
 kaccounts-providers (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
-  * New upstream release.
-
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 15 May 2015 13:32:02 -0700
-
-kaccounts-providers (4:15.04.0-0ubuntu1) UNRELEASED; urgency=medium
-
   [ Harald Sitter ]
   * Initial release.
+
+  [ Scarlett Clark ]
+  * Fine skip over 15.04.0 entirely and erase its existance,
+    who am I to argue with CI.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 21:12:01 -0700
