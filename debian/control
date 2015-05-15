@@ -5,15 +5,15 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules,
-               pkg-kde-tools (>= 0.12),
                intltool,
-               libaccounts-glib-dev
+               libaccounts-glib-dev,
+               pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/kaccounts-providers.git/
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/kaccounts-providers.git
 
 Package: kaccounts-providers
 Architecture: all
-Depends: ${misc:Depends}, signon-plugin-oauth2
+Depends: signon-plugin-oauth2, ${misc:Depends}
 Description: KDE providers for accounts sign-on
  Additional providers for accounts sing-on.
