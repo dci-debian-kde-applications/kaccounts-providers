@@ -1,13 +1,16 @@
+kaccounts-providers (15.04.1-1~) UNRELEASED; urgency=medium
+
+  * Prepare initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 18 May 2015 16:16:05 +0200
+
 kaccounts-providers (15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * New upstream release.
-  * Manual merge. 
+  * Manual merge.
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 15 May 2015 14:18:04 -0700
-
-kaccounts-providers (15.04.0-0ubuntu1) UNRELEASED; urgency=medium
-
+  [ Harald Sitter ]
   * Initial release.
 
- -- Harald Sitter <apachelogger@kubuntu.org>  Tue, 09 Dec 2014 14:13:07 +0100
-
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 15 May 2015 14:18:04 -0700
