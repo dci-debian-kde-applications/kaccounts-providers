@@ -1,9 +1,10 @@
-kaccounts-providers (15.04.1-0ubuntu1) UNRELEASED; urgency=medium
+kaccounts-providers (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release.
   * Manual merge. 
+  * Vivid backport
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 15 May 2015 14:18:04 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 27 May 2015 08:15:00 -0700
 
 kaccounts-providers (15.04.0-0ubuntu1) UNRELEASED; urgency=medium
 
