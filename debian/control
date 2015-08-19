@@ -9,7 +9,7 @@ Build-Depends: cmake,
                libaccounts-glib-dev,
                libkaccounts-dev,
                pkg-kde-tools (>= 0.12)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/kaccounts-providers.git/
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/kaccounts-providers.git
 
