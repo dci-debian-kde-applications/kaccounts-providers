@@ -1,6 +1,10 @@
-kaccounts-providers (15.04.1-1~) UNRELEASED; urgency=medium
+kaccounts-providers (15.04.3-1~) UNRELEASED; urgency=medium
 
+  [ Maximiliano Curia ]
   * Prepare initial Debian release.
+
+  [ Diane Trout ]
+  * Add qtbase5-dev to build dependencies
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 18 May 2015 16:16:05 +0200
 
