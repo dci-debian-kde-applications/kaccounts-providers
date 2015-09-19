@@ -19,4 +19,6 @@ Package: kaccounts-providers
 Architecture: all
 Depends: signon-plugin-oauth2, ${misc:Depends}
 Description: KDE providers for accounts sign-on
- Additional providers for accounts sing-on.
+ Provides additional configuration files for libaccounts and
+ libsignon to recognize online services such as Facebook
+ and Google.

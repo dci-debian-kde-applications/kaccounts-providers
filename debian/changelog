@@ -7,6 +7,7 @@ kaccounts-providers (15.04.3-1~) UNRELEASED; urgency=medium
   * libsignon-qt5-dev depends on libkf5coreaddons and libaccountsqt5-dev
     so we can just list it in the Build-depends
   * Update Build-Depends. No changes needed
+  * Write a longer description.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 18 May 2015 16:16:05 +0200
 
