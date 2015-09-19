@@ -10,6 +10,7 @@ kaccounts-providers (15.04.3-1~) UNRELEASED; urgency=medium
   * Write a longer description.
   * add dh_install --list-missing to check for uninstalled files.
   * Add myself as uploader.
+  * Add Homepage field.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 18 May 2015 16:16:05 +0200
 
