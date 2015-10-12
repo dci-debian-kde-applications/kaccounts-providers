@@ -1,15 +1,8 @@
 kaccounts-providers (15.08.1-1~) UNRELEASED; urgency=medium
 
-  * Prepare initial Debian release.
-  * New upstream release (15.08.1).
-  * Bump Standards-Version to 3.9.6.
-
- -- Maximiliano Curia <maxy@debian.org>  Thu, 17 Sep 2015 19:53:24 +0200
-
-kaccounts-providers (15.04.3-1~) UNRELEASED; urgency=medium
-
   [ Maximiliano Curia ]
   * Prepare initial Debian release.
+  * New upstream release (15.08.1).
 
   [ Diane Trout ]
   * libsignon-qt5-dev depends on libkf5coreaddons and libaccountsqt5-dev
@@ -19,8 +12,9 @@ kaccounts-providers (15.04.3-1~) UNRELEASED; urgency=medium
   * add dh_install --list-missing to check for uninstalled files.
   * Add myself as uploader.
   * Add Homepage field.
+  * Bump Standards-Version to 3.9.6.
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 18 May 2015 16:16:05 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 17 Sep 2015 19:53:24 +0200
 
 kaccounts-providers (15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
