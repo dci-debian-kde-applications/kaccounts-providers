@@ -6,8 +6,12 @@ Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules,
                intltool,
+               kio-dev,
                libaccounts-glib-dev,
                libkaccounts-dev (>= 4:15.07),
+               libkf5declarative-dev,
+               libkf5i18n-dev,
+               libkf5package-dev,
                pkg-kde-tools (>= 0.12),
                qtdeclarative5-dev
 Standards-Version: 3.9.6
