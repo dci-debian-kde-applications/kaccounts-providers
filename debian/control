@@ -23,8 +23,8 @@ Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/kaccounts-provide
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/kaccounts-providers.git
 
 Package: kaccounts-providers
-Architecture: all
-Depends: signon-plugin-oauth2, ${misc:Depends}
+Architecture: any
+Depends: signon-plugin-oauth2, ${misc:Depends}, ${shlibs:Depends}
 Description: KDE providers for accounts sign-on
  Provides additional configuration files for libaccounts and
  libsignon to recognize online services such as Facebook
