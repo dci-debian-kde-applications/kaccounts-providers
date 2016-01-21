@@ -27,14 +27,3 @@ kaccounts-providers (15.08.1-1) unstable; urgency=medium
   * Add Homepage field.
 
  -- Diane Trout <diane@debian.org>  Sun, 20 Sep 2015 22:00:06 -0700
-
-kaccounts-providers (15.04.1-0ubuntu1) UNRELEASED; urgency=medium
-
-  [ Scarlett Clark ]
-  * New upstream release.
-  * Manual merge.
-
-  [ Harald Sitter ]
-  * Initial release.
-
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 15 May 2015 14:18:04 -0700
