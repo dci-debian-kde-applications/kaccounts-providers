@@ -1,7 +1,8 @@
 kaccounts-providers (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
-  * Non-maintainer upload.
+  * New upstream release.
   * Debian merge: No remaining changes. 
+  * 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 28 Jan 2016 16:40:55 -0800
 
