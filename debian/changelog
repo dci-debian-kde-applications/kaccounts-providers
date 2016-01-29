@@ -1,10 +1,14 @@
-kaccounts-providers (15.12.0-1) UNRELEASED; urgency=medium
+kaccounts-providers (15.12.1-1~) UNRELEASED; urgency=medium
 
+  [ Diane Trout ]
   * New upstream release.
   * Update Build-Depends, add kio-dev, libkf5declarative-dev,
     libkf5package-dev
 
- -- Diane Trout <diane@ghic.org>  Wed, 06 Jan 2016 16:49:32 -0800
+  [ Maximiliano Curia ]
+  * New upstream release (15.12.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 29 Jan 2016 11:17:41 +0100
 
 kaccounts-providers (15.08.3-1) unstable; urgency=medium
 
