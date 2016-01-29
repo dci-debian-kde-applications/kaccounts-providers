@@ -1,3 +1,10 @@
+kaccounts-providers (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Debian merge: No remaining changes. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 28 Jan 2016 16:40:55 -0800
+
 kaccounts-providers (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
@@ -42,9 +49,32 @@ kaccounts-providers (4:15.04.2-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 10 Jun 2015 19:00:53 +0200
 
-kaccounts-providers (15.04.0-0ubuntu1) UNRELEASED; urgency=medium
+kaccounts-providers (15.12.0-1) UNRELEASED; urgency=medium
 
-  * Initial release.
+  * New upstream release.
+  * Update Build-Depends, add kio-dev, libkf5declarative-dev,
+    libkf5package-dev
 
- -- Harald Sitter <apachelogger@kubuntu.org>  Tue, 09 Dec 2014 14:13:07 +0100
+ -- Diane Trout <diane@ghic.org>  Wed, 06 Jan 2016 16:49:32 -0800
 
+kaccounts-providers (15.08.3-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Diane Trout <diane@ghic.org>  Thu, 03 Dec 2015 23:03:42 -0800
+
+kaccounts-providers (15.08.1-1) unstable; urgency=medium
+
+  [ Maximiliano Curia ]
+  * Prepare initial Debian release.
+
+  [ Diane Trout ]
+  * libsignon-qt5-dev depends on libkf5coreaddons and libaccountsqt5-dev
+    so we can just list it in the Build-depends
+  * Update Build-Depends. No changes needed
+  * Write a longer description.
+  * add dh_install --list-missing to check for uninstalled files.
+  * Add myself as uploader.
+  * Add Homepage field.
+
+ -- Diane Trout <diane@debian.org>  Sun, 20 Sep 2015 22:00:06 -0700
