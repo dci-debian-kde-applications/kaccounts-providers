@@ -2,7 +2,7 @@ kaccounts-providers (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release.
   * Debian merge: No remaining changes. 
-  * 
+  * Fix changelog typo.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 28 Jan 2016 16:40:55 -0800
 
