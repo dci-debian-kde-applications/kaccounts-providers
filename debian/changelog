@@ -1,4 +1,4 @@
-kaccounts-providers (15.12.1-1~) UNRELEASED; urgency=medium
+kaccounts-providers (15.12.1-1) experimental; urgency=medium
 
   [ Diane Trout ]
   * New upstream release.
@@ -8,7 +8,7 @@ kaccounts-providers (15.12.1-1~) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * New upstream release (15.12.1).
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 29 Jan 2016 11:17:41 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:23:26 +0100
 
 kaccounts-providers (15.08.3-1) unstable; urgency=medium
 
