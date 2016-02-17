@@ -1,8 +1,13 @@
 kaccounts-providers (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * New upstream release.
   * Debian merge: No remaining changes. 
   * Fix changelog typo.
+
+  [ Clive Johnston ]
+  * Applying upstream patch Upstream_Rename_the_provider_files.patch
+    closes LP: #1451728
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 28 Jan 2016 16:40:55 -0800
 
