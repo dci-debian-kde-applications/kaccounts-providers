@@ -1,10 +1,10 @@
-kaccounts-providers (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+kaccounts-providers (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   * New upstream release.
   * Debian merge: No remaining changes. 
   * Fix changelog typo.
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 28 Jan 2016 16:40:55 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:26:29 +0100
 
 kaccounts-providers (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
