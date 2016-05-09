@@ -1,8 +1,10 @@
-kaccounts-providers (15.12.2-1~) UNRELEASED; urgency=medium
+kaccounts-providers (16.04.0-1~1.gbp20cbba) UNRELEASED; urgency=medium
 
-  * New upstream release (15.12.2).
+  ** SNAPSHOT build @20cbba51e2e79041b672c590e43dfa23cf4a8e4a **
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:54:52 +0100
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 02:12:11 +0200
 
 kaccounts-providers (15.12.1-1) experimental; urgency=medium
 
