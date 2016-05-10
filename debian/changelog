@@ -1,6 +1,6 @@
-kaccounts-providers (16.04.0-1~2.gbp9a996d) UNRELEASED; urgency=medium
+kaccounts-providers (16.04.1-1~1.gbp80275e) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @9a996d31afe8cdc21b9aded428478a7951a0cf50 **
+  ** SNAPSHOT build @80275eda74fcc68a7e4a0d29129f1f089f3a3174 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @20cbba51e2e79041b672c590e43dfa23cf4a8e4a **
@@ -11,8 +11,9 @@ kaccounts-providers (16.04.0-1~2.gbp9a996d) UNRELEASED; urgency=medium
   * New upstream release (15.12.2).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:12:14 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 20:12:11 +0200
 
 kaccounts-providers (15.12.1-1) experimental; urgency=medium
 
