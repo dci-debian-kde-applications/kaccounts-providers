@@ -1,11 +1,12 @@
-kaccounts-providers (16.08.0-1~1.gbp9c1a8c) UNRELEASED; urgency=medium
+kaccounts-providers (16.08.1-1~1.gbpe79aa1) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @9c1a8cd96ec5889f898cc93ad0ef2b01ee1bfde7 **
+  ** SNAPSHOT build @e79aa11604dd12b6d32ad2e98f6f90b41770819a **
 
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 20:12:10 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 20:12:34 +0200
 
 kaccounts-providers (16.04.2-1) unstable; urgency=medium
 
