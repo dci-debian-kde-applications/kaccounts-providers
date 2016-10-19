@@ -1,18 +1,12 @@
-kaccounts-providers (16.08.2-1~1.gbp1e766d) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @1e766d7be77a4c0fb5197f41ab15347cf0c76dab **
+kaccounts-providers (16.08.2-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @e79aa11604dd12b6d32ad2e98f6f90b41770819a **
-
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
+  * New upstream release (16.08.2)
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 20:12:23 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 12:41:45 +0200
 
 kaccounts-providers (16.04.2-1) unstable; urgency=medium
 
