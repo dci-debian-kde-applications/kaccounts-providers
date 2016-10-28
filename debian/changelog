@@ -1,3 +1,9 @@
+kaccounts-providers (4:16.08.2-0neon) xenial; urgency=medium
+
+  * Bump Epoch to be higher than the ubuntu version
+
+ -- Raymond Wooninck <tittiatcoke@gmail.com>  Fri, 28 Oct 2016 18:02:38 +0200
+
 kaccounts-providers (16.08.2-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
