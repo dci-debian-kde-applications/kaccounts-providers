@@ -1,14 +1,37 @@
+kaccounts-providers (16.08.2-1) unstable; urgency=medium
+
+  [ Maximiliano Curia ]
+  * New upstream release (16.08.2)
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 12:41:45 +0200
+
+kaccounts-providers (16.04.2-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 23 Jun 2016 14:36:02 +0200
+
+kaccounts-providers (16.04.1-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+  [ Maximiliano Curia ]
+  * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Add myself to the uploaders list
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 26 May 2016 18:39:47 +0200
+
 kaccounts-providers (16.04.1-0neon) xenial; urgency=medium
 
   * New release
 
  -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:12:07 +0200
-
-kaccounts-providers (15.12.2-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (15.12.2).
-
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:54:52 +0100
 
 kaccounts-providers (15.12.1-1) experimental; urgency=medium
 
