@@ -1,10 +1,8 @@
-kaccounts-providers (16.08.3-1~1.gbpa7f8a0) UNRELEASED; urgency=medium
+kaccounts-providers (16.08.3-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @a7f8a0ab86c6ca1a90c626214ee0e0701f860260 **
+  * New upstream release (16.08.3)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 20:12:19 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 20:54:36 +0100
 
 kaccounts-providers (16.08.2-1) unstable; urgency=medium
 
