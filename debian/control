@@ -25,7 +25,12 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kaccounts-providers
 
 Package: kaccounts-providers
 Architecture: any
-Depends: signon-plugin-oauth2, ${misc:Depends}, ${shlibs:Depends}
+Depends: qml-module-qtquick-controls,
+         qml-module-qtquick-layouts,
+         qml-module-qtquick2,
+         signon-plugin-oauth2,
+         ${misc:Depends},
+         ${shlibs:Depends}
 Description: KDE providers for accounts sign-on
  Provides additional configuration files for libaccounts and
  libsignon to recognize online services such as Facebook
