@@ -25,7 +25,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kaccounts-providers
 
 Package: kaccounts-providers
 Architecture: any
-Depends: qml-module-qtquick-controls,
+Depends: plasma-framework,
+         qml-module-qtquick-controls,
          qml-module-qtquick-layouts,
          qml-module-qtquick2,
          signon-plugin-oauth2,
