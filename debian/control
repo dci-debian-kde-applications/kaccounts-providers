@@ -16,7 +16,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libsignon-qt5-dev,
                pkg-kde-tools (>= 0.12),
                qtbase5-dev (>= 5.2.0~),
-               qtdeclarative5-dev (>= 5.2.0~)
+               qtdeclarative5-dev (>= 5.2.0~),
 Standards-Version: 4.1.0
 Homepage: https://projects.kde.org/projects/kde/kdenetwork/kaccounts-providers
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kaccounts-providers.git/
@@ -30,7 +30,7 @@ Depends: plasma-framework,
          qml-module-qtquick2,
          signon-plugin-oauth2,
          ${misc:Depends},
-         ${shlibs:Depends}
+         ${shlibs:Depends},
 Breaks: ${kde-l10n:all}
 Replaces: ${kde-l10n:all}
 Description: KDE providers for accounts sign-on
