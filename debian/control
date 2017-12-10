@@ -31,6 +31,7 @@ Depends: plasma-framework,
          signon-plugin-oauth2,
          ${misc:Depends},
          ${shlibs:Depends},
+Recommends: libkf5purpose-bin
 Breaks: ${kde-l10n:all}
 Replaces: ${kde-l10n:all}
 Description: KDE providers for accounts sign-on
