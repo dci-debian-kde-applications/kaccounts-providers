@@ -1,3 +1,10 @@
+kaccounts-providers (4:17.08.3-0r1) UNRELEASED; urgency=medium
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 10 Dec 2017 15:52:03 +0100
+
 kaccounts-providers (4:17.08.0-1) experimental; urgency=medium
 
   * New upstream release (17.08.0)
